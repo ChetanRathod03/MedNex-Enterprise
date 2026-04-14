@@ -20,6 +20,21 @@
 
 ---
 
+
+MedNex-Enterprise/
+│── public/              # Static assets
+│── src/                 # Main source code
+│   ├── components/      # Reusable UI components
+│   ├── pages/           # Application pages
+│   ├── assets/          # Images, icons, styles
+│   ├── App.tsx          # Root component
+│   └── main.tsx         # Entry point
+│
+│── package.json
+│── tsconfig.json
+│── vite.config.ts
+│── eslint.config.js
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
