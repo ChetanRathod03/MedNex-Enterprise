@@ -1,5 +1,25 @@
 # React + TypeScript + Vite
 
+## 🚀 Tech Stack
+
+- ⚛️ React (Frontend Library)
+- 🟦 TypeScript (Type Safety)
+- ⚡ Vite (Build Tool)
+- 🧹 ESLint (Code Quality)
+
+---
+
+## ✨ Key Features
+
+- ⚡ Lightning-fast development with Hot Module Replacement (HMR)
+- 🔒 Strong type safety using TypeScript
+- 📦 Optimized production builds with Vite
+- 📁 Clean and scalable project structure
+- 🧹 Linting for maintaining high-quality code
+- 🔧 Easily extendable architecture
+
+---
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
