@@ -106,3 +106,11 @@ export default defineConfig([
   },
 ])
 ```
+
+
+🔮 Future Enhancements
+🔐 Authentication & Authorization
+🧠 AI-based healthcare insights
+📊 Dashboard & analytics
+🌐 API integration with backend services
+📱 Fully responsive UI improvements
